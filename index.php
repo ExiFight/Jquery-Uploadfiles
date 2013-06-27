@@ -11,7 +11,7 @@ REQUIREMENT:
 
 See the whole code for explainations. 
 
-I voluntary let the js script on the same page to allow an easy vew between the html and the js / jquery
+I voluntary let the js script on the same page to allow an easy view between the html and the js / jquery
 
 	
 **********************************************/
@@ -111,7 +111,7 @@ function startUpload() {
 //everything start here
 $("#myForm").submit(function() { if($('#userfile').val() != '') { startUpload();	} });
 
-//jusst stylish button from jquery ui
+//just stylish button from jquery ui
 $( "[type=submit]" ).button();
 
 });
