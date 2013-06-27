@@ -2,6 +2,8 @@
 /**********************************************
 V 0.1
 Progress Bar with upload file with Jquery and PHP by Frederic Pioch
+http://www.orugari.fr
+https://github.com/orugari/
 
 REQUIREMENT:
 	# >= PHP 5.4 
